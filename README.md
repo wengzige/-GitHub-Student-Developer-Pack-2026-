@@ -41,6 +41,7 @@
 * **Company**: 填写 **学校英文全称** 。
 * **Location**: 填写 **学校所在城市的英文名**（例如 `Beijing, China`）。
 * **Time zone**: 务必选择 `(GMT+08:00) Beijing` 。
+
 <img width="415" height="251" alt="image" src="https://github.com/user-attachments/assets/3aa5e69f-909f-4ea5-ab66-6858418056c8" />
 <img width="416" height="330" alt="image" src="https://github.com/user-attachments/assets/0f4b2d6c-6ee1-42dd-9df5-fd5ef23b1afb" />
 
@@ -52,6 +53,7 @@
 
 * **Change username**: 如果是新号，建议将用户名改为**真实姓名的拼音**（如 `wangxiaoming01`）。这能大幅提高审核通过率，让名字、邮箱、Billing信息三位一体 。
 * *注意：如果是老号且有很多仓库依赖，改名会导致旧链接失效，请慎重操作。*
+
 <img width="415" height="228" alt="image" src="https://github.com/user-attachments/assets/2bd197d8-7e19-4a8a-b0df-9a97034a0583" />
 
 ---
@@ -65,6 +67,7 @@ GitHub 会校验你的账单地址和学校地址是否大概一致。
 * **First name / Last name**: 填写和第一步完全一致的**拼音** 。
 * **Address**: 填写学校的英文地址（可以用翻译软件翻一下学校地址）。
 * **City / Country / State**: 全部按**学校所在地**如实填写 。
+
 <img width="414" height="261" alt="image" src="https://github.com/user-attachments/assets/0521eadf-05d7-44df-b3e0-401e0c595397" />
 <img width="416" height="286" alt="image" src="https://github.com/user-attachments/assets/3bb3b5f7-00b4-4371-8053-bd7f409168e5" />
 
@@ -83,6 +86,7 @@ GitHub 会校验你的账单地址和学校地址是否大概一致。
 4.  **位置确认**：
     * 点击绿色按钮 **Share Location** 。
     * **重点**：此时**绝对不要开VPN**！如果浏览器弹窗询问获取位置权限，请点击“允许” 。
+
 <img width="264" height="335" alt="image" src="https://github.com/user-attachments/assets/b2417f39-6bf7-4b7b-9ba7-ce0a92f54aaa" />
 
 ---
@@ -90,6 +94,7 @@ GitHub 会校验你的账单地址和学校地址是否大概一致。
 ## 📸 第五步：上传证明
 
 点击 Continue 后，系统会让你提供证明材料。
+
 <img width="239" height="292" alt="image" src="https://github.com/user-attachments/assets/54bc4f94-e883-4a27-a53b-a5c97633863c" />
 
 1.  **Proof Type (证明类型)**：选择 **"1. Dated school ID"** 。
@@ -114,6 +119,7 @@ Student ID:
 Graduation date:
 Study from: Distance Learning
 ```
+
 <img width="384" height="270" alt="image" src="https://github.com/user-attachments/assets/1e4a6913-24fe-4b50-89dd-7d235dda8514" />
 
 ---
@@ -121,6 +127,7 @@ Study from: Distance Learning
 ## 🔄 第六步：二次验证
 
 上传后，系统大概率会弹出一个补充询问框，问你为什么不在学校）。
+
 <img width="233" height="291" alt="image" src="https://github.com/user-attachments/assets/cea8cf31-7598-4cd1-8e9d-f8188d2d974b" />
 
 1.  **原因选择**：选择 **勾选 "All coursework is via distance learning" (所有课程通过远程进行) 。** 。
@@ -133,6 +140,7 @@ Study from: Distance Learning
 Student [你的姓名拼音],
 is allowed to study via distance learning in [学校英文全名] University.
 ```
+
 <img width="345" height="89" alt="image" src="https://github.com/user-attachments/assets/707fe04b-71b6-4935-8135-1b54fbfeb510" />
 
 **操作**：同样将这张说明纸拍摄上传。
@@ -142,6 +150,7 @@ is allowed to study via distance learning in [学校英文全名] University.
 ## ✅ 第七步：等待审核
 
 提交完成后，你应该会看到绿色的 Approved 提示 。
+
 <img width="323" height="236" alt="image" src="https://github.com/user-attachments/assets/cfb7c266-87eb-49dc-9e00-b3a81287cede" />
 
 1. **审核时间**：通常显示 "Approved" 后，权益会在 72小时内 发放到账户 。
