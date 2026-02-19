@@ -22,14 +22,13 @@
 
 ## 🛠️ 准备工作
 
-* **一个干净的浏览器环境**（建议无痕模式/Edge/Chrome）。
 * **本人的 edu.cn 邮箱**（强烈建议用学校分配的，购买的邮箱极易封号）。
-* **手机/电脑摄像头**（申请过程中需要实时拍照）。
+* **电脑摄像头**（申请过程中需要实时拍照）。
 * **关闭所有代理/VPN**（非常重要！开全局也没用，必须关掉）。
 
 ---
 
-## 📝 第一步：完善 Public Profile (公开资料)
+## 📝 第一步：完善 Public Profile
 
 进入 GitHub 的 **Settings** -> **Public profile**。
 这一步是为了建立“真实账号”的指纹信息。
@@ -57,7 +56,7 @@
 
 ---
 
-## 💳 第三步：设置 Billing Information (账单信息)
+## 💳 第三步：设置 Billing Information
 
 GitHub 会校验你的账单地址和学校地址是否大概一致。
 
@@ -88,7 +87,7 @@ GitHub 会校验你的账单地址和学校地址是否大概一致。
 
 ---
 
-## 📸 第五步：上传证明 (核心黑科技)
+## 📸 第五步：上传证明
 
 点击 Continue 后，系统会让你提供证明材料。
 <img width="239" height="292" alt="image" src="https://github.com/user-attachments/assets/54bc4f94-e883-4a27-a53b-a5c97633863c" />
@@ -102,8 +101,7 @@ GitHub 会校验你的账单地址和学校地址是否大概一致。
 
 > **注意**：
 > 1. 请将下方的 `xxx` 替换为你**真实的**信息。
-> 2. ID和日期务必填写真实的，不要造假。
-> 3. "Distance Learning" (远程学习) 是为了解决你当前IP可能不在学校宿舍（比如寒暑假在家）的问题。
+> 2. "Distance Learning" (远程学习) 是为了解决你当前IP可能不在学校宿舍（比如寒暑假在家）的问题。
 
 **模板 1 (用于第一次拍照上传)** ：
 
@@ -112,17 +110,17 @@ Student ID Card
 ---------------------------
 Name: [你的姓名拼音, 如: wang xiaoming]
 School: [学校英文全名]
-Student ID: [你的真实学号]
-Graduation date: [你的预计毕业年月, 如: June 30, 2027]
+Student ID:
+Graduation date:
 Study from: Distance Learning
 ```
 <img width="384" height="270" alt="image" src="https://github.com/user-attachments/assets/1e4a6913-24fe-4b50-89dd-7d235dda8514" />
 
 ---
 
-## 🔄 第六步：二次验证 (Distance Learning)
+## 🔄 第六步：二次验证
 
-上传后，系统大概率会弹出一个补充询问框，问你为什么不在学校（因为检测到你的IP可能是家用宽带）。
+上传后，系统大概率会弹出一个补充询问框，问你为什么不在学校）。
 <img width="233" height="291" alt="image" src="https://github.com/user-attachments/assets/cea8cf31-7598-4cd1-8e9d-f8188d2d974b" />
 
 1.  **原因选择**：选择 **勾选 "All coursework is via distance learning" (所有课程通过远程进行) 。** 。
@@ -149,4 +147,23 @@ in [学校英文全名] University.
 2. **有效期**：一般为2年，到期后只要还在读，可以重新认证 。
 
 3. **权益查看**：收到邮件后，访问GitHub查看你领取的 Copilot、JetBrains 全家桶、DigitalOcean 等福利。
+
+---
+
+## ❓ 常见问题 (Q&A)
+**Q: 必须改用户名为真名吗？**
+
+A: 教程中提到了修改 username。如果是新号，建议改为拼音以增加通过率；如果是老号（有很多仓库），改名有风险，建议只改 Display Name (个人资料里的 Name) 即可。
+
+**Q: 拍照模糊怎么办？**
+
+A: 光线要好，字迹要清晰。如果电脑摄像头太糊，可以尝试用手机浏览器登录 GitHub 进行操作。
+
+**Q: 为什么提示我位置太远？**
+
+A: 确保关了梯子。如果还是不行，必须严格按照上述“Distance Learning”的流程操作，那个选项就是专门给不在校区的学生准备的。
+
+---
+
+## 祝各位同学申请顺利，Happy Coding!
 
