@@ -134,7 +134,7 @@ Study from: Distance Learning
 2.  **Brief explanation (简短说明)**：填写 **I study via distance learning**。
 3.  **再次拍照**：系统可能会要求你再传一次证明。这次我们可以换一个更有针对性的英文说明模板，强调允许远程学习。
 
-**模板 2 (用于补充拍照) ：** ：
+**模板 2 (用于补充拍照)**：
 
 ```text
 Student [你的姓名拼音],
